@@ -1,0 +1,14 @@
+# Virtual environment folder
+venv/
+
+# Python cache
+__pycache__/
+
+# Pycharm folder
+.idea/
+
+# Code-OSS and VS Code folder
+.vscode/
+
+# Temporary files
+*~
